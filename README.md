@@ -1,1 +1,1 @@
-Setting up Git and Github.
+Setting up Git and Github for this project.
